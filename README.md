@@ -9,8 +9,15 @@ Chatbot para responder preguntas sobre ESI, ley Micaela, violencia de género, U
 python3.10 -m venv venv
 ```
 
-3) Install the required libraries.
+2) Activate the virtual env 
    
 ```
 source venv/bin/activate
 ```
+
+3) Install the required libraries.
+
+```
+pip install -r requirements.txt
+```
+
