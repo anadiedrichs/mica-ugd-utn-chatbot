@@ -30,14 +30,13 @@ pip install -r requirements.txt
 source venv/bin/activate
 ```
 
-2. Run the app
+2. Run the streamlit app
 
 ```
-streamlit run yourscript.py
+streamlit run app.py
 ```
 
-3. Deactivate venv
-
+3. When you finish, deactivate the virtual env 
 ```
 deactivate
 ```
