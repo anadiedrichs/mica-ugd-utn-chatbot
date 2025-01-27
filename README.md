@@ -21,3 +21,25 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+
+## How to run locally
+
+1. Activate the virtual env
+
+```
+source venv/bin/activate
+streamlit run yourscript.py
+```
+
+2. Run the app
+
+```
+streamlit run yourscript.py
+```
+
+3. Deactivate venv
+
+```
+deactivate
+```
+
