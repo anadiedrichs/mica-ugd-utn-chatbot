@@ -28,7 +28,6 @@ pip install -r requirements.txt
 
 ```
 source venv/bin/activate
-streamlit run yourscript.py
 ```
 
 2. Run the app
